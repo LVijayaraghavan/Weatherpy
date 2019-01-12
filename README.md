@@ -1,6 +1,6 @@
 # Weatherpy
 Weather Analysis
-Here we are creating a Python Script to
+Here we are creating a Python Script to :
 
 Randomly select longitude and latitude and use Citipy library and get 500 + unique cities
 Using Openweathermap API to get the weather conditions for these 500+ cities.
